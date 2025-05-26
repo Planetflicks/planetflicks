@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Planet Flick is an open-source platform dedicated to democratizing access to Earth’s vital signs. From climate metrics to geological activity, we turn complex planetary data into interactive, flickable insights. Ideal for educators, researchers, and eco-enthusiasts!
 <!--
 **Planetflicks/planetflicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
